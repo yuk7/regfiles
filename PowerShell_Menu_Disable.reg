@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\powershell]
+"HideBasedOnVelocityId"=dword:00639bc8
+"ShowBasedOnVelocityId"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Classes\Drive\shell\powershell]
+"HideBasedOnVelocityId"=dword:00639bc8
+"ShowBasedOnVelocityId"=dword:00000000
